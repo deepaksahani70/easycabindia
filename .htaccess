@@ -1,0 +1,19 @@
+# php -- BEGIN cPanel-generated handler
+<IfModule mime_module>
+    AddHandler application/x-httpd-ea-php84 .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# Redirect .php to clean URL
+RewriteCond %{REQUEST_URI} !^/emailForm\.php$
+RewriteCond %{THE_REQUEST} \s/([^.]+)\.php[\s?] [NC]
+RewriteRule ^ %1/ [R=301,L]
+
+# Rewrite clean URL to .php
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([^/]+)/?$ $1.php [L]
+</IfModule>

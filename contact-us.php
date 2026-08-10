@@ -1,0 +1,1069 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Contact Us - Our Best Car Rental & Taxi Service is Available</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description"
+        content="Easy Cab India is an online travel company grant Holiday Packages. Our team is every time ready to mentor you with our best car rental services. Contact Today!" />
+    <meta name="keywords"
+        content="easy cab india contact, car rental contact number, outstation cab booking, taxi service india, luxury car hire" />
+    <meta name="author" content="Easy Cab India Pvt Ltd">
+    <meta property="og:image" content="https://www.easycabindia.com/images/car-rental-india.webp" />
+    <meta charSet="utf-8" />
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <meta property="og:title" content="Contact Us - Our Best Car Rental & Taxi Service is Available" />
+    <meta property="og:description"
+        content="Easy Cab India is an online travel company grant Holiday Packages. Our team is every time ready to mentor you with our best car rental services. Contact Today!" />
+    <meta property="og:site_name" content="Easy Cab India" />
+    <meta property="og:image" content="https://www.easycabindia.com/images/car-rental-india.webp" />
+    <meta property="og:url" content="https://www.easycabindia.com/contact-us" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="en_US" />
+    <!-- End of Open Graph data -->
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@twitterusernamehere">
+    <meta name="twitter:title" content="Contact Us - Our Best Car Rental & Taxi Service is Available">
+    <meta name="twitter:description"
+        content="Easy Cab India is an online travel company grant Holiday Packages. Our team is every time ready to mentor you with our best car rental services. Contact Today!">
+    <meta name="twitter:creator" content="@twitterusernamehere">
+    <meta name="twitter:image:src" content="https://www.easycabindia.com/images/car-rental-india.webp">
+    <!-- End of Twitter Card data -->
+    <meta name="distribution" content="global" />
+    <meta name="google" content="notranslate" />
+    <meta name="robots" content="index, follow" />
+    <meta name="google-site-verification" content="SNu8YRA8mwIbR7zltWZjSGSWarb6IXiH53MJ61oQgsM" />
+    <meta name="googlebot" content="index, follow" />
+    <meta name="yahooSeeker" content="index, follow" />
+    <meta name="msnbot" content="index, follow" />
+    <meta name="document-type" content="public">
+    <meta name="country" content="India">
+    <meta name="state" content="India">
+    <meta name="city" content="India">
+
+
+
+    <link href="https://connect.facebook.net" rel="dns-prefetch" />
+    <link href="//cdn.segment.com" rel="dns-prefetch" />
+    <link href="https://www.google-analytics.com" rel="dns-prefetch" />
+    <link href="//www.googleadservices.com" rel="dns-prefetch" />
+    <link rel="canonical" href="https://www.easycabindia.com/contact-us" />
+    <!--link starts here-->
+    <!-- Main CSS (important) -->
+    <link href="/css/style.css" rel="stylesheet" type="text/css">
+    <link rel="icon" href="/images/car-favicon.webp">
+    <!-- Non-critical CSS async -->
+    <link rel="preload" href="/css/font-awesome.css" as="style" onload="this.onload=null;this.rel='stylesheet'"
+        type="text/css">
+    <noscript>
+        <link rel="stylesheet" href="/css/font-awesome.css">
+    </noscript>
+    <link rel="preload" href="/css/owl.carousel.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'"
+        type="text/css">
+    <noscript>
+        <link rel="stylesheet" href="/css/owl.carousel.min.css">
+    </noscript>
+    <!--link starts here-->
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org/",
+            "@type": "WebSite",
+            "name": "Easy Cab India",
+            "url": "https://www.easycabindia.com"
+        }
+
+    </script>
+    <script type="application/ld+json">
+         {
+             "@context": "https://schema.org",
+             "@type": "Organization",
+             "name": "Easy Cab India",
+             "alternateName": "Contact Us",
+             "url": "https://www.easycabindia.com/contact-us",
+             "logo": "https://www.easycabindia.com/images/car.gif",
+             "sameAs": [
+                 "https://www.linkedin.com/in/easycabindia/",
+               "https://x.com/easycabindia24",
+               "https://in.pinterest.com/easycabindia/?actingBusinessId=1132796249930922106",
+               "https://www.easycabindia.com/"
+           ]
+         }
+     </script>
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.easycabindia.com",
+                    "name": "Easy Cab India"
+                }
+            }, {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.easycabindia.com/contact-us",
+                    "name": "Contact Us"
+                }
+            }]
+        }
+    </script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YQZK2K5PQQ"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-YQZK2K5PQQ');
+    </script>
+</head>
+
+<body>
+    <div class="wrapper">
+            <div id="loading"></div>
+
+            <!--==================== HEADER START ====================-->
+        <div class="eci-topbar">
+            <div class="container">
+                <div class="eci-topbar-left">
+                    <a href="/tel:+919811499662">
+                        <i class="fa fa-phone"></i>
+                        <span>+91 9811499662</span>
+                    </a>
+                    <a href="/mailto:info@easycabindia.com">
+                        <i class="fa fa-envelope"></i>
+                        <span>info@easycabindia.com</span>
+                    </a>
+                </div>
+                <div class="eci-topbar-right">
+                    <a href="/https://www.facebook.com/people/Easy-Cab-India/61590524918555/"><i class="fa fa-facebook"></i></a>
+                    <a href="/https://www.instagram.com/easycabindiaa/"><i class="fa fa-instagram"></i></a>
+                    <a href="/https://x.com/easycabindia24"><i class="fa fa-twitter"></i></a>
+                    <a href="/https://www.linkedin.com/in/easycabindia/"><i class="fa fa-linkedin"></i></a>
+                    <a href="/https://in.pinterest.com/easycabindia/?actingBusinessId=1132796249930922106"><i class="fa fa-pinterest"></i></a>
+                </div>
+            </div>
+        </div>
+        <header class="eci-header">
+            <div class="eci-sticky-wrapper">
+                <div class="eci-navbar">
+                    <div class="container">
+                        <a href="/" class="eci-logo">
+                            <img src="/images/car.gif" alt="Easy Cab India">
+                            <div class="eci-logo-text">
+                                <strong>Easy Cab India</strong>
+                                <small>Luxury Travel Partner</small>
+                            </div>
+                        </a>
+                        <nav class="eci-nav">
+                            <ul>
+                                <li class="">
+                                    <a href="/">Home</a>
+                                </li>
+                                <li>
+                                    <a href="/about-us.html">About</a>
+                                </li>
+        
+                                <li class="eci-has-menu">
+                                    <a href="/#"> Services <i class="fa fa-angle-down"></i></a>
+                                    <div class="eci-mega-menu">
+                                        <div class="eci-mega-column">
+                                            <h4>Airport Services</h4>
+                                            <a href="/airport-pickup-drop-service.html"> Airport Pickup & Drop</a>
+                                            <a href="/coming-soon.html"> Railway Station Transfer </a>
+                                            <a href="/coming-soon.html"> Local Transfer </a>
+                                        </div>
+                                        <div class="eci-mega-column">
+                                            <h4>Rental Services</h4>
+                                            <a href="/outstation-car-rental-service.html">
+                                                Outstation Car Rental
+                                            </a>
+                                            <a href="/coming-soon.html">
+                                                Local Cab Rental
+                                            </a>
+                                            <a href="/coming-soon.html">
+                                                Hourly Rental
+                                            </a>
+                                        </div>
+        
+                                        <div class="eci-mega-column">
+                                            <h4>Special Services</h4>
+                                            <a href="/car-rental-corporate-events.html">
+                                                Corporate Events
+                                            </a>
+                                            <a href="/car-rental-family-function.html">
+                                                Family Functions
+                                            </a>
+                                            <a href="/car-rental-vip-delegations.html">
+                                                VIP Delegations
+                                            </a>
+                                        </div>
+                                        <div class="eci-mega-column eci-mega-highlight">
+                                            <h4>Popular</h4>
+                                            <a href="/coming-soon.html">
+                                                Weekend Trips
+                                            </a>
+                                            <a href="/coming-soon.html">
+                                                Family Tours
+                                            </a>
+                                            <a href="/coming-soon.html"> Luxury Travel </a>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="eci-has-menu" style="display: none;">
+                                    <a href="/coming-soon.html">
+                                        Packages
+                                        <i class="fa fa-angle-down"></i>
+                                    </a>
+                                    <div class="eci-dropdown">
+                                        <a href="/coming-soon.html">Golden Triangle</a>
+                                        <a href="/coming-soon.html">Hill Stations</a>
+                                        <a href="/coming-soon.html">Family Tours</a>
+                                        <a href="/coming-soon.html">Honeymoon Tours</a>
+                                        <a href="/coming-soon.html">Holiday Packages</a>
+                                    </div>
+                                </li>
+        
+                                <li class="eci-has-menu eci-cities-menu"> <a href="/coming-soon.html"> Cities <i class="fa fa-angle-down"></i>
+                                    </a>
+                                    <div class="eci-mega-menu eci-city-menu">
+                                        <div class="eci-city-state">
+                                            <h4>India </h4> <a href="/car-rental-delhi.html" class="popular">Delhi</a> <a
+                                                href="/car-rental-chandigarh.html">Chandigarh</a> <a href="/coming-soon.html">Mumbai</a>
+                                            <a href="/coming-soon.html">Kolkata</a>
+                                        </div>
+                                        <div class="eci-city-state">
+                                            <h4>Gujarat</h4> <a href="/ahmedabad.html">Ahmedabad</a> <a
+                                                href="/coming-soon.html">Surat</a> <a href="/coming-soon.html">Vadodara</a> <a
+                                                href="/coming-soon.html">Rajkot</a>
+                                        </div>
+                                        <div class="eci-city-state">
+                                            <h4>Kerala</h4> <a href="/coming-soon.html">Kochi</a> <a
+                                                href="/coming-soon.html">Munnar</a>
+                                            <a href="/coming-soon.html">Alleppey</a> <a href="/coming-soon.html">Thekkady</a>
+                                        </div>
+                                        <div class="eci-city-state">
+                                            <h4>Jammu &amp; Kashmir</h4> <a href="/coming-soon.html">Srinagar</a> <a
+                                                href="/coming-soon.html">Jammu</a> <a href="/coming-soon.html">Pahalgam</a> <a
+                                                href="/coming-soon.html">Gulmarg</a>
+                                        </div>
+                                        <div class="eci-city-state">
+                                            <h4>Tamil Nadu</h4> <a href="/coming-soon.html">Chennai</a> <a
+                                                href="/coming-soon.html">Madurai</a> <a href="/coming-soon.html">Rameswaram</a> <a
+                                                href="/coming-soon.html">Ooty</a>
+                                        </div>
+        
+                                        <div class="eci-city-state">
+                                            <h4>Punjab</h4> <a href="/amritsar.html">Amritsar</a> <a
+                                                href="/ludhiana.html">Ludhiana</a> <a href="/jalandhar.html">Jalandhar</a>
+                                            <a href="/patiala.html">Patiala</a> <a href="/mohali.html">Mohali</a>
+                                            <a href="/coming-soon.html">Kharar</a>
+                                        </div>
+                                        <div class="eci-city-state">
+                                            <h4>Haryana</h4>
+                                             <a href="/gurgaon.html">Gurgaon</a> 
+                                             <!-- <a href="/coming-soon.html">Faridabad</a>  -->
+                                             <!-- <a href="/coming-soon.html">Sonipat</a>  -->
+                                             <a href="/panipat.html">Panipat</a> <a href="/karnal.html">Karnal</a>
+                                            <a href="/kurukshetra.html">Kurukshetra</a> 
+                                            <!-- <a href="/coming-soon.html">Kaithal</a> -->
+                                             <a href="/ambala.html">Ambala</a>
+                                            <a href="/panchkula.html">Panchkula</a>
+                                        </div>
+                                        <div class="eci-city-state">
+                                            <h4>Rajasthan</h4> <a href="/coming-soon.html">Jaipur</a> <a
+                                                href="/coming-soon.html">Udaipur</a> <a href="/coming-soon.html">Jodhpur</a> <a
+                                                href="/coming-soon.html">Jaisalmer</a>
+                                            <a href="/coming-soon.html">Ajmer / Pushkar</a> <a
+                                                href="/coming-soon.html">Bikaner</a>
+                                        </div>
+        
+                                        <div class="eci-city-state">
+                                            <h4>Himachal Pradesh</h4> <a href="/coming-soon.html">Manali</a> <a
+                                                href="/shimla.html" class="popular">Shimla</a> <a
+                                                href="/dharamshala.html">Dharamshala</a> <a href="/kasol.html">Kasol</a>
+                                            <a href="/coming-soon.html">Dal housie</a> <a href="/kullu.html">Kullu</a>
+                                        </div>
+        
+                                        <div class="eci-city-state">
+                                            <h4>Uttarakhand</h4> <a href="/rishikesh.html">Rishikesh</a> <a
+                                                href="/coming-soon.html">Haridwar</a>
+                                            <a href="/coming-soon.html">Dehradun</a> <a href="/massoorie.html">Mussoorie</a> <a
+                                                href="/nainital.html">Nainital</a>
+                                            <a href="/coming-soon.html">Kedarnath /
+                                                Badrinath</a>
+                                        </div>
+                                      
+        
+                                        <div class="eci-city-state">
+                                            <h4>Maharashtra</h4> <a href="/coming-soon.html">Mumbai</a> <a
+                                                href="/coming-soon.html">Pune</a> <a href="/coming-soon.html">Nagpur</a>
+                                            <a href="/coming-soon.html">Nashik</a> <a href="/coming-soon.html">Shirdi</a>
+                                        </div>
+                                        <div class="eci-city-state">
+                                            <h4>Madhya Pradesh</h4> <a href="/coming-soon.html">Bhopal</a> <a
+                                                href="/coming-soon.html">Indore</a> <a href="/coming-soon.html">Ujjain</a>
+                                        </div>
+        
+                                        <div class="eci-city-state">
+                                            <h4>Goa</h4> <a href="/coming-soon.html">Panaji</a> <a href="/coming-soon.html">North
+                                                Goa</a> <a href="/coming-soon.html">South
+                                                Goa</a>
+                                        </div>
+        
+                                        <div class="eci-city-state">
+                                            <h4>Karnataka</h4> <a href="/coming-soon.html">Bangalore</a> <a
+                                                href="coming-soon.html">Mysore</a>
+                                        </div>
+        
+                                        <div class="eci-city-state">
+                                            <h4>West Bengal</h4> <a href="/coming-soon.html">Kolkata</a> <a
+                                                href="/coming-soon.html">Darjeeling</a>
+                                        </div>
+                                        <div class="eci-city-state">
+                                            <h4>Ladakh</h4> <a href="/coming-soon.html">Leh</a> <a href="/coming-soon.html">Pangong
+                                                Lake</a> <a href="/coming-soon.html">Nubra
+                                                Valley</a> <a href="/coming-soon.html">Khardung La</a> <a href="/coming-soon.html">Tso Moriri</a> <a
+                                                href="/coming-soon.html">Magnetic
+                                                Hill</a>
+                                        </div>
+                                        
+                                        <div class="eci-city-state">
+                                            <h4>Uttar Pradesh</h4> <a href="/coming-soon.html">Agra</a> <a
+                                                href="/coming-soon.html">Ayodhya</a> <a href="/coming-soon.html">Varanasi</a> <a
+                                                href="/coming-soon.html">Lucknow</a> <a href="/coming-soon.html">Prayagraj</a> <a
+                                                href="/coming-soon.html">Mathura
+                                                / Vrindavan</a> <a href="/coming-soon.html">Ghaziabad</a> <a
+                                                href="coming-soon.html">Noida</a>
+                                        </div>
+        
+        
+                                    </div>
+                                </li>
+        
+                                <li>
+                                    <a href="/travel-agents.html">Travel Agents</a>
+                                </li>
+                                <li>
+                                    <a href="/contact-us/">Contact</a>
+                                </li>
+                            </ul>
+                        </nav>
+                        <div class="eci-right">
+                            <a href="/tel:+919811499662" class="eci-call">
+                                <i class="fa fa-phone"></i>
+                            </a>
+                            <a href="/contact-us" class="eci-book">
+                                Book Now
+                            </a>
+                        </div>
+        
+                        <!-- Mobile Toggle -->
+                        <button class="eci-toggle" aria-label="Open Menu">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div class="eci-overlay"></div>
+        <aside class="eci-mobile">
+            <div class="eci-mobile-header">
+                <div class="eci-mobile-logo">
+                    <img src="images/car.gif" alt="Easy Cab India">
+                    <strong>Easy Cab India</strong>
+                </div>
+                <button class="eci-close">
+                    <i class="fa fa-close"></i>
+                </button>
+            </div>
+            <nav class="eci-mobile-nav">
+                <ul>
+                    <li>
+                        <a href="/">Home</a>
+                    </li>
+                    <li>
+                        <a href="/about-us.html">About</a>
+                    </li>
+                    <li class="eci-mobile-item">
+                        <button class="eci-mobile-btn">
+                            <span>Services</span>
+                            <i class="fa fa-angle-down"></i>
+                        </button>
+                        <ul>
+                            <li><a href="/airport-pickup-drop-service.html">Airport Pickup</a></li>
+                            <li><a href="/outstation-car-rental-service.html">Outstation</a></li>
+                            <li><a href="/car-rental-corporate-events.html">Corporate</a></li>
+                            <li><a href="/car-rental-family-function.html">Family Functions</a></li>
+                            <li><a href="/car-rental-vip-delegations.html">VIP Delegations</a></li>
+                        </ul>
+                    </li>
+                    <li class="eci-mobile-item">
+                        <button class="eci-mobile-btn">
+                            <span>Main Cities</span>
+                            <i class="fa fa-angle-down"></i>
+                        </button>
+                        <ul>
+                            <li><a href="/car-rental-delhi.html">Delhi</a></li>
+                            <li><a href="/car-rental-chandigarh.html">Chandigarh</a></li>
+                            <li><a href="/coming-soon.html">Mumbai</a></li>
+                            <li><a href="/coming-soon.html">Kolkata Trips</a></li>
+                        </ul>
+                    </li>
+                    <li class="eci-mobile-item eci-mobile-cities">
+        
+                        <button class="eci-mobile-btn" type="button">
+                            <span>Cities</span>
+                            <i class="fa fa-angle-down"></i>
+                        </button>
+        
+                        <ul class="eci-mobile-state-list">
+                            
+                            <!-- ================= HARYANA ================= -->
+                            
+                            <li class="eci-mobile-state">
+                                <button class="eci-mobile-state-btn" type="button">
+                                    <span>Haryana</span>
+                                    <i class="fa fa-angle-down"></i>
+                                </button>
+                            
+                                <ul>
+                                    <li><a href="/gurgaon.html">Gurgaon</a></li>
+                                    <li><a href="/coming-soon.html">Faridabad</a></li>
+                                    <li><a href="/coming-soon.html">Sonipat</a></li>
+                                    <li><a href="/panipat.html">Panipat</a></li>
+                                    <li><a href="/karnal.html">Karnal</a></li>
+                                    <li><a href="/kurukshetra.html">Kurukshetra</a></li>
+                                    <li><a href="/coming-soon.html">Kaithal</a></li>
+                                    <li><a href="/ambala.html">Ambala</a></li>
+                                    <li><a href="/panchkula.html">Panchkula</a></li>
+                                </ul>
+                            </li>
+        
+                            <!-- ================= PUNJAB ================= -->
+        
+                            <li class="eci-mobile-state">
+                                <button class="eci-mobile-state-btn" type="button">
+                                    <span>Punjab</span>
+                                    <i class="fa fa-angle-down"></i>
+                                </button>
+        
+                                <ul>
+                                    <li><a href="/amritsar.html">Amritsar</a></li>
+                                    <li><a href="/ludhiana.html">Ludhiana</a></li>
+                                    <li><a href="/jalandhar.html">Jalandhar</a></li>
+                                    <li><a href="/patiala.html">Patiala</a></li>
+                                    <li><a href="/mohali.html">Mohali</a></li>
+                                    <li><a href="/coming-soon.html">Kharar</a></li>
+                                </ul>
+                            </li>
+
+                              <!-- ================= HIMACHAL PRADESH ================= -->
+                                
+                                <li class="eci-mobile-state">
+                                    <button class="eci-mobile-state-btn" type="button">
+                                        <span>Himachal Pradesh</span>
+                                        <i class="fa fa-angle-down"></i>
+                                    </button>
+                                
+                                    <ul>
+                                        <li><a href="/coming-soon.html">Manali</a></li>
+                                        <li><a href="/shimla.html" class="popular">Shimla</a></li>
+                                        <li><a href="/dharamshala.html">Dharamshala</a></li>
+                                        <li><a href="/kasol.html">Kasol</a></li>
+                                        <li><a href="/coming-soon.html">Dal housie</a></li>
+                                        <li><a href="/kullu.html">Kullu</a></li>
+                                    </ul>
+                                </li>
+        
+        
+                            <!-- ================= RAJASTHAN ================= -->
+        
+                            <li class="eci-mobile-state">
+                                <button class="eci-mobile-state-btn" type="button">
+                                    <span>Rajasthan</span>
+                                    <i class="fa fa-angle-down"></i>
+                                </button>
+        
+                                <ul>
+                                    <li><a href="/coming-soon.html" class="popular">Jaipur</a></li>
+                                    <li><a href="/coming-soon.html">Udaipur</a></li>
+                                    <li><a href="/coming-soon.html">Jodhpur</a></li>
+                                    <li><a href="/coming-soon.html">Jaisalmer</a></li>
+                                    <li><a href="/coming-soon.html">Ajmer / Pushkar</a></li>
+                                    <li><a href="/coming-soon.html">Bikaner</a></li>
+                                </ul>
+                            </li>
+        
+        
+
+        
+        
+                            <!-- ================= UTTARAKHAND ================= -->
+        
+                            <li class="eci-mobile-state">
+                                <button class="eci-mobile-state-btn" type="button">
+                                    <span>Uttarakhand</span>
+                                    <i class="fa fa-angle-down"></i>
+                                </button>
+        
+                                <ul>
+                                    <li><a href="/rishikesh.html" class="popular">Rishikesh</a></li>
+                                    <li><a href="/coming-soon.html">Haridwar</a></li>
+                                    <li><a href="/coming-soon.html">Dehradun</a></li>
+                                    <li><a href="/massoorie.html">Mussoorie</a></li>
+                                    <li><a href="/nainital.html">Nainital</a></li>
+                                    <li><a href="/coming-soon.html">Kedarnath / Badrinath</a></li>
+                                </ul>
+                            </li>
+        
+        
+                            <!-- ================= LADAKH ================= -->
+        
+                            <li class="eci-mobile-state">
+                                <button class="eci-mobile-state-btn" type="button">
+                                    <span>Ladakh</span>
+                                    <i class="fa fa-angle-down"></i>
+                                </button>
+        
+                                <ul>
+                                    <li><a href="/coming-soon.html">Leh</a></li>
+                                    <li><a href="/coming-soon.html">Pangong Lake</a></li>
+                                    <li><a href="/coming-soon.html">Nubra Valley</a></li>
+                                    <li><a href="/coming-soon.html">Khardung La</a></li>
+                                    <li><a href="/coming-soon.html">Tso Moriri</a></li>
+                                    <li><a href="/coming-soon.html">Magnetic Hill</a></li>
+                                </ul>
+                            </li>
+        
+        
+                            <!-- ================= MAHARASHTRA ================= -->
+        
+                            <li class="eci-mobile-state">
+                                <button class="eci-mobile-state-btn" type="button">
+                                    <span>Maharashtra</span>
+                                    <i class="fa fa-angle-down"></i>
+                                </button>
+        
+                                <ul>
+                                    <li><a href="/coming-soon.html">Mumbai</a></li>
+                                    <li><a href="/coming-soon.html">Pune</a></li>
+                                    <li><a href="/coming-soon.html">Nagpur</a></li>
+                                    <li><a href="/coming-soon.html">Nashik</a></li>
+                                    <li><a href="/coming-soon.html">Shirdi</a></li>
+                                </ul>
+                            </li>
+        
+        
+                            <!-- ================= MADHYA PRADESH ================= -->
+        
+                            <li class="eci-mobile-state">
+                                <button class="eci-mobile-state-btn" type="button">
+                                    <span>Madhya Pradesh</span>
+                                    <i class="fa fa-angle-down"></i>
+                                </button>
+        
+                                <ul>
+                                    <li><a href="/coming-soon.html">Bhopal</a></li>
+                                    <li><a href="/coming-soon.html">Indore</a></li>
+                                    <li><a href="/coming-soon.html">Ujjain</a></li>
+                                </ul>
+                            </li>
+        
+        
+                            <!-- ================= GOA ================= -->
+        
+                            <li class="eci-mobile-state">
+                                <button class="eci-mobile-state-btn" type="button">
+                                    <span>Goa</span>
+                                    <i class="fa fa-angle-down"></i>
+                                </button>
+        
+                                <ul>
+                                    <li><a href="/coming-soon.html">Panaji</a></li>
+                                    <li><a href="/coming-soon.html">North Goa</a></li>
+                                    <li><a href="/coming-soon.html">South Goa</a></li>
+                                </ul>
+                            </li>
+        
+        
+                            <!-- ================= KARNATAKA ================= -->
+        
+                            <li class="eci-mobile-state">
+                                <button class="eci-mobile-state-btn" type="button">
+                                    <span>Karnataka</span>
+                                    <i class="fa fa-angle-down"></i>
+                                </button>
+        
+                                <ul>
+                                    <li><a href="/coming-soon.html">Bangalore</a></li>
+                                    <li><a href="/coming-soon.html">Mysore</a></li>
+                                </ul>
+                            </li>
+        
+        
+                            <!-- ================= WEST BENGAL ================= -->
+        
+                            <li class="eci-mobile-state">
+                                <button class="eci-mobile-state-btn" type="button">
+                                    <span>West Bengal</span>
+                                    <i class="fa fa-angle-down"></i>
+                                </button>
+        
+                                <ul>
+                                    <li><a href="/coming-soon.html">Kolkata</a></li>
+                                    <li><a href="/coming-soon.html">Darjeeling</a></li>
+                                </ul>
+                            </li> 
+        
+        
+                            <!-- ================= UTTAR PRADESH ================= -->
+        
+                            <li class="eci-mobile-state">
+                                <button class="eci-mobile-state-btn" type="button">
+                                    <span>Uttar Pradesh</span>
+                                    <i class="fa fa-angle-down"></i>
+                                </button>
+        
+                                <ul>
+                                    <li><a href="/coming-soon.html" class="popular">Agra</a></li>
+                                    <li><a href="/coming-soon.html" class="popular">Ayodhya</a></li>
+                                    <li><a href="/coming-soon.html">Varanasi</a></li>
+                                    <li><a href="/coming-soon.html">Lucknow</a></li>
+                                    <li><a href="/coming-soon.html">Prayagraj</a></li>
+                                    <li><a href="/coming-soon.html" class="popular">Mathura / Vrindavan</a></li>
+                                    <li><a href="/coming-soon.html">Ghaziabad</a></li>
+                                    <li><a href="/coming-soon.html">Noida</a></li>
+                                </ul>
+                            </li>
+        
+                        </ul>
+                    </li>
+        
+                    <li>
+                        <a href="/travel-agents.html">Travel Agents</a>
+                    </li>
+        
+                    <li>
+                        <a href="/contact-us/">Contact</a>
+                    </li>
+                </ul>
+        
+            </nav>
+        
+            <div class="eci-mobile-footer">
+                <a href="/contact-us" class="eci-book">
+                    Book Your Cab
+                </a>
+            </div>
+        </aside>
+        <!--==================== HEADER END ====================-->
+ 
+        <!-- Banner Start -->
+
+        <section class="contact-banner ">
+
+            <img src="/slider/contact-slider.webp" alt="Contact Easy Cab India Taxi Service Booking Support">
+            <div class="banner-overlay"></div>
+
+            <div class="banner-content">
+
+                <span>Contact Us</span>
+
+                <h1>Let's Build Something Amazing Together</h1>
+
+                <p>
+                    We'd love to hear about your project. Fill out the form and our team
+                    will get back to you shortly.
+                </p>
+
+            </div>
+
+        </section>
+         <!--contant seation strats here-->
+        <section class="contact-section">
+            <div class="container">
+
+                <div class="contact-wrapper">
+
+                    <!-- Contact Form -->
+                    <div class="contact-form-box">
+                        <h3>Request a Call Back</h3>
+                        <form action="/emailForm.php" method="post" id="contactForm">
+                            <input type="text" 
+                                name="website" 
+                                autocomplete="off"
+                                tabindex="-1"
+                                style="display:none">
+                            <div class="input-grid">
+                                <div class="input-box">
+                                    <label>First Name</label>
+                                    <input type="text" name="first_name" placeholder="First Name" required>
+                                </div>
+
+                                <div class="input-box">
+                                    <label>Last Name</label>
+                                    <input type="text" name="last_name" placeholder="Last Name" required>
+                                </div>
+                            </div>
+
+                            <div class="input-grid">
+                                <div class="input-box">
+                                    <label>Email</label>
+                                    <input type="email" name="email" placeholder="example@email.com" required>
+                                </div>
+                                <div class="input-box">
+                                    <label>Phone</label>
+                                    <input type="tel" name="telephone" placeholder="+91 0000000000" required>
+                                </div>
+                            </div>
+                            <div class="input-box">
+                                <label>Your Message</label>
+                                <textarea name="comments" placeholder="Write your message..."></textarea>
+                            </div>
+                            <!-- Google reCAPTCHA -->
+                            <div class="g-recaptcha" data-sitekey="6LeOrHQtAAAAAJ4Vgy_U8LUomihMv49z5bqx6wH-"
+                                style="margin-bottom:20px;">
+                            </div>
+                            <button type="submit">
+                                Send Message
+                            </button>
+                        </form>
+                    </div>
+                    <!-- Contact Info -->
+
+                    <div class="contact-info">
+                        <h3>Get In Touch</h3>
+                        <p>
+                            Feel free to contact us anytime. We usually reply within 24
+                            hours.
+                        </p>
+                        <div class="info-item">
+                            <i class="fa fa-envelope"></i>
+                            <div>
+                                <span>Email</span>
+                                <a href="/mailto:info@easycabindia.com">
+                                    info@easycabindia.com
+                                </a>
+                            </div>
+                        </div>
+                        <div class="info-item">
+                            <i class="fa fa-phone"></i>
+                            <div>
+                                <span>Phone</span>
+                                <a href="/tel:+919811499662">
+                                    +91 9811499662
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="info-item">
+                            <i class="fa fa-map-marker"></i>
+                            <div>
+                                <span>Office</span>
+                                <p>DSS 108, Sector 5, Karnal, Haryana 132001</p>
+                            </div>
+                        </div>
+
+                        <div class="info-item">
+                            <i class="fa fa-globe"></i>
+                            <div>
+                                <span>Website</span>
+                                <a href="/https://www.easycabindia.com">
+                                    www.easycabindia.com
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="social-icons">
+
+                            <a href="/#"><i class="fa fa-facebook"></i></a>
+
+                            <a href="/#"><i class="fa fa-twitter"></i></a>
+
+                            <a href="/#"><i class="fa fa-instagram"></i></a>
+
+                            <a href="/#"><i class="fa fa-linkedin"></i></a>
+
+                            <a href="/#"><i class="fa fa-pinterest"></i></a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+
+        <!--contant seation ends here-->
+
+
+        <footer>
+            <!--footer starts here-->
+            <div class="price-laer-one  bubbles-cr">
+                <div class="container">
+                    <div class="socale-logo">
+                        <a href="/https://www.easycabindia.com/">Easy Cab India</a>
+                        <ul>
+                            <li><a href="/https://www.facebook.com/people/Easy-Cab-India/61590524918555/"><i
+                                        class="fa fa-facebook"></i></a>
+                            <li><a href="/https://twitter.com/luxurycartravel"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="/https://www.instagram.com/luxurycartravels/"><i
+                                        class="fa fa-instagram"></i></a></li>
+                            <li><a href="/https://www.linkedin.com/in/easycabindia/"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                            <li><a href="/https://in.pinterest.com/kiaraadvanitravels/"><i
+                                        class="fa fa-pinterest"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="all-link">
+                        <div class="footer-box">
+                            <span>Services Location</span>
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/car-rental-chandigarh.html">Chandigarh</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/#">Darjeeling</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/#">Uttarakhand</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/#">Himachal Pradesh</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/#">North India</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/#">Char Dham</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/#">Rajasthan</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/#">Kerala</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="footer-box">
+                            <span>Quick Links</span>
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/https://www.easycabindia.com/">Home</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/about-us.html">About Us</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/travel-agents.html">Travel Agents</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/family-packages.html">Family Packages</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/honeymoon-packages.html">Honeymoon Packages</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/holiday-package.html">Holiday Package</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/car-rental-family-function.html">Family Functions</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="footer-box">
+                            <span>Your Trip</span>
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/honeymoon-romantic.html">Honeymoon Romantic</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/family-tour.html">Family Tour</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/friends-group-tours.html">Friends Group</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/adventure-tour.html">Adventure</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/solo-travel.html">Solo</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/wildlife-safari.html">Wildlife Safari</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/water-activities.html">Water Activities</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/religious-pilgrimage.html">Religious Pilgrimage</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/nature-sightseeing.html">Nature</a>
+                                </li>
+                                <li><i class="fa fa-caret-right"></i>
+                                    <a href="/business-trip.html">Business Trip</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="footer-box">
+                            <span>Help</span>
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i><a href="/contact-us">Contact Us</a></li>
+                                <li><i class="fa fa-caret-right"></i><a href="/help.html">Help</a></li>
+                            </ul>
+                        </div>
+                        <div class="footer-box">
+                            <span>Get In Touch</span>
+                            <p><i class="fa fa-envelope-o"></i><a
+                                    href="mailto:info@easycabindia.com">info@easycabindia.com</a></p>
+
+                            <p><i class="fa fa-volume-control-phone"></i><a href="/tel:9811499662">+919811499662</a></p>
+                            <p><i class="fa fa-home"></i>DSS 108, Sector 5, Karnal, (Haryana) 132001</p>
+                        </div>
+                    </div>
+                    <!--ends-->
+                      
+                    <div class="copy-right">
+                        <p>Copyright @ 2021-2022 -All Rights Reserved | Powered by <a
+                                href="https://www.easycabindia.com/">Easy Cab India</a></p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!--footer ends here-->
+    </div>
+    <!--wrapper starts here-->
+    <!--scrept starts here-->
+    <script src="./js/jquery.js"></script>
+    <script src="./js/script.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+ 
+    <!--scrept ends here-->
+    <!-- Global site tag(gtag.js)-Google Analytics -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-156950055-1"></script>
+    <script src="js/navbar.js" defer></script>
+    <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments) }
+        gtag('js', new Date()); gtag('config', 'UA-156950055-1');</script>
+    <script>
+        window.addEventListener('load', function () {
+            if (window.location.pathname == "/send_form_email.php") {
+                gtag('event', 'conversion', { 'send_to': 'AW-671594213/DaKgCJiF8r8BEOXtnsAC' });
+            }
+
+            jQuery('[href*="tel:"]').click(function () {
+                gtag('event', 'conversion', { 'send_to': 'AW-671594213/gII3COaI8r8BEOXtnsAC' });
+            });
+        })
+    </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+ <script>
+document.addEventListener("DOMContentLoaded", function () {
+
+    const form = document.getElementById("contactForm");
+
+    if (!form) return;
+
+    form.addEventListener("submit", async function (e) {
+
+        e.preventDefault();
+
+        Swal.fire({
+            title: "Sending...",
+            text: "Please wait while we submit your enquiry.",
+            allowOutsideClick: false,
+            allowEscapeKey: false,
+            didOpen: () => {
+                Swal.showLoading();
+            }
+        });
+
+        const formData = new FormData(form);
+
+        try {
+
+            const response = await fetch(form.action, {
+                method: "POST",
+                body: formData
+            });
+
+            const text = await response.text();
+
+            console.log("Server Response:");
+            console.log(text);
+
+            if (!response.ok) {
+                throw new Error(
+                    "HTTP " + response.status +
+                    "<br><br><b>Response:</b><br>" + text
+                );
+            }
+
+            let result;
+
+            try {
+                result = JSON.parse(text);
+            } catch (e) {
+                throw new Error(
+                    "Invalid JSON returned by emailForm.php.<br><br>" +
+                    text
+                );
+            }
+
+            Swal.close();
+
+            if (result.status === "success") {
+
+                Swal.fire({
+                    icon: "success",
+                    title: "Thank You!",
+                    text: result.message
+                });
+
+                form.reset();
+
+                if (window.grecaptcha) {
+                    grecaptcha.reset();
+                }
+
+            } else {
+
+                Swal.fire({
+                    icon: "error",
+                    title: "Oops!",
+                    text: result.message
+                });
+
+            }
+
+        } catch (error) {
+
+            console.error(error);
+
+            Swal.close();
+
+            Swal.fire({
+                icon: "error",
+                title: "Server Error",
+                html: error.message
+            });
+
+        }
+
+    });
+
+});
+</script>  
+</body>
+
+</html>

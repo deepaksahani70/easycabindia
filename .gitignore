@@ -1,0 +1,50 @@
+# Environment
+.env
+
+# Composer
+/vendor/
+
+# Node
+/node_modules/
+
+# XAMPP / local files
+xampp/
+
+# Logs
+*.log
+error_log
+
+# Backup files
+*.zip
+*.rar
+*.7z
+*.bak
+
+# Database backups
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large videos
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Photoshop/design files
+*.psd
+*.ai
+*.eps
