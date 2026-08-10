@@ -2,9 +2,11 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/easycabi/public_html/
-    - /bin/cp index.html $DEPLOYPATH
-    - /bin/cp contact-us.php $DEPLOYPATH
-    - /bin/cp emailForm.php $DEPLOYPATH
+    - /bin/cp *.html $DEPLOYPATH
+    - /bin/cp *.php $DEPLOYPATH
+    - /bin/cp *.xml $DEPLOYPATH
+    - /bin/cp *.txt $DEPLOYPATH
+    - /bin/cp .htaccess $DEPLOYPATH
     - /bin/cp -R assets $DEPLOYPATH
     - /bin/cp -R css $DEPLOYPATH
     - /bin/cp -R js $DEPLOYPATH

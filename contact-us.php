@@ -232,7 +232,7 @@
                                     </a>
                                     <div class="eci-mega-menu eci-city-menu">
                                         <div class="eci-city-state">
-                                            <h4>India </h4> <a href="/car-rental-delhi.html" class="popular">Delhi</a> <a
+                                            <h4>India </h4> <a href="/delhi-taxi-service.html" class="popular">Delhi</a> <a
                                                 href="/car-rental-chandigarh.html">Chandigarh</a> <a href="/coming-soon.html">Mumbai</a>
                                             <a href="/coming-soon.html">Kolkata</a>
                                         </div>
@@ -410,7 +410,7 @@
                             <i class="fa fa-angle-down"></i>
                         </button>
                         <ul>
-                            <li><a href="/car-rental-delhi.html">Delhi</a></li>
+                            <li><a href="/delhi-taxi-service.html">Delhi</a></li>
                             <li><a href="/car-rental-chandigarh.html">Chandigarh</a></li>
                             <li><a href="/coming-soon.html">Mumbai</a></li>
                             <li><a href="/coming-soon.html">Kolkata Trips</a></li>
@@ -807,7 +807,7 @@
 
         <footer>
             <!--footer starts here-->
-            <div class="price-laer-one  bubbles-cr">
+            <div class="price-laer-one">
                 <div class="container">
                     <div class="socale-logo">
                         <a href="/https://www.easycabindia.com/">Easy Cab India</a>
