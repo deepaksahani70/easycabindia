@@ -207,8 +207,9 @@
     color: #555;
     font-size: 14px;
 }
+
 .w-100 {
-    /* max-width: 900px !important; */
+    max-width: 900px !important;
 }
 
 @media(max-width:1100px) {
@@ -283,6 +284,10 @@
 /** ========================
 Booking Process
  =======================*/
+.Outstation-section {
+    background: linear-gradient(180deg, #ffffff 0%, #eefaf8 100%);
+}
+
 .eciJourneySection {
     padding: 100px 0;
     background: var(--eci-light);
@@ -292,7 +297,6 @@ Booking Process
     max-width: 760px;
     margin: auto;
     text-align: center;
-    margin-bottom: 70px;
 }
 
 .eciJourneyHeading span {
@@ -446,7 +450,6 @@ Fare Highlights
     background: var(--eci-light);
 }
 
-
 .eciFareHeading {
     max-width: 760px;
     margin: 0 auto 60px;
@@ -454,7 +457,6 @@ Fare Highlights
 }
 
 .eciFareHeading span {
-
     display: inline-block;
     padding: 10px 22px;
     border-radius: 50px;
@@ -466,8 +468,6 @@ Fare Highlights
 
 }
 
-
-
 .eciFareHeading h2 {
 
     color: var(--eci-dark);
@@ -476,30 +476,19 @@ Fare Highlights
 
 }
 
-
-
 .eciFareHeading p {
-
     color: var(--eci-dark);
     opacity: .75;
     line-height: 1.8;
-
 }
 
-
-
 .eciFareGrid {
-
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 30px;
-
 }
 
-
-
 .eciFareCard {
-
     background: var(--eci-white);
     padding: 40px 30px;
     border-radius: 30px;
@@ -507,41 +496,25 @@ Fare Highlights
     box-shadow: var(--eci-shadow);
     position: relative;
     transition: .35s;
-
 }
-
-
 
 .eciFareCard:hover {
-
     transform: translateY(-12px);
-
 }
 
-
-
 .eciFareFeatured {
-
     background: linear-gradient(135deg,
             var(--eci-primary),
             var(--eci-dark));
-
 }
-
-
 
 .eciFareFeatured h3,
 .eciFareFeatured li,
 .eciFareFeatured .eciFarePrice {
-
     color: var(--eci-white);
-
 }
 
-
-
 .eciPopularTag {
-
     position: absolute;
     top: 20px;
     right: 20px;
@@ -551,13 +524,9 @@ Fare Highlights
     border-radius: 30px;
     font-size: 13px;
     font-weight: 700;
-
 }
 
-
-
 .eciFareIcon {
-
     width: 80px;
     height: 80px;
     margin: 20px auto 25px;
@@ -568,87 +537,53 @@ Fare Highlights
     color: var(--eci-primary);
     border-radius: 25px;
     font-size: 32px;
-
 }
 
 .eciFareFeatured .eciFareIcon {
-
     background: var(--eci-white);
-
 }
 
-
-
 .eciFareCard h3 {
-
     color: var(--eci-dark);
     font-size: 26px;
     margin-bottom: 20px;
-
 }
 
-
-
 .eciFarePrice {
-
     color: var(--eci-primary);
     font-size: 42px;
     font-weight: 800;
     margin-bottom: 25px;
-
 }
 
-
-
 .eciFarePrice small {
-
     display: block;
     font-size: 14px;
     font-weight: 500;
-
 }
 
-
-
 .eciFareCard ul {
-
     list-style: none;
     padding: 0;
     margin: 25px 0;
-
 }
 
-
-
 .eciFareCard li {
-
     padding: 12px 0;
     color: var(--eci-dark);
     border-bottom: 1px solid rgba(0, 0, 0, .06);
-
 }
-
-
 
 .eciFareCard li i {
-
     color: var(--eci-primary);
     margin-right: 8px;
-
 }
-
-
 
 .eciFareFeatured li i {
-
     color: var(--eci-dark);
-
 }
 
-
-
 .eciFareCard a {
-
     display: inline-block;
     padding: 14px 35px;
     border-radius: 50px;
@@ -658,41 +593,27 @@ Fare Highlights
             var(--eci-primary),
             var(--eci-dark));
     font-weight: 700;
-
 }
-
-
 
 .eciFareFeatured a {
-
     background: var(--eci-white);
     color: var(--eci-dark);
-
 }
 
-
-
 @media(max-width:992px) {
-
     .eciFareGrid {
         grid-template-columns: repeat(2, 1fr);
     }
-
 }
 
-
-
 @media(max-width:768px) {
-
     .eciFareHeading h2 {
         font-size: 32px;
     }
 
-
     .eciFareGrid {
         grid-template-columns: 1fr;
     }
-
 }
 
 .eciStatsSection {
@@ -746,8 +667,6 @@ Fare Highlights
     z-index: 2;
 }
 
-
-
 .eciStatsCard {
 
     background: rgba(255, 255, 255, .12);
@@ -757,19 +676,12 @@ Fare Highlights
     padding: 35px 25px;
     text-align: center;
     transition: .35s;
-
 }
-
-
 
 .eciStatsCard:hover {
-
     transform: translateY(-10px);
     background: rgba(255, 255, 255, .18);
-
 }
-
-
 
 .eciStatsIcon {
 
@@ -789,40 +701,26 @@ Fare Highlights
 
 }
 
-
-
 .eciStatsNumber {
-
     color: var(--eci-white);
     font-size: 48px;
     font-weight: 800;
     line-height: 1;
     margin-bottom: 15px;
-
 }
 
-
-
 .eciStatsCard h3 {
-
     color: var(--eci-white);
     font-size: 22px;
     margin-bottom: 12px;
-
 }
 
-
-
 .eciStatsCard p {
-
     color: var(--eci-white);
     opacity: .85;
     line-height: 1.7;
     font-size: 15px;
-
 }
-
-
 
 @media(max-width:1100px) {
     .eciStatsGrid {
@@ -845,12 +743,10 @@ Fare Highlights
 }
 
 .eciRouteSection {
-
     padding: 100px 0;
     background: var(--eci-white);
 
 }
-
 
 .eciRouteHeading {
 
