@@ -1,21 +1,14 @@
 <?php
-
 declare(strict_types=1);
-
 header('Content-Type: application/json; charset=UTF-8');
-
 ini_set('display_errors', 0);
 error_reporting(E_ALL);
-
 require __DIR__ . '/vendor/autoload.php';
-
 use Dotenv\Dotenv;
 use PHPMailer\PHPMailer\Exception;
 use PHPMailer\PHPMailer\PHPMailer;
-
 $dotenv = Dotenv::createImmutable(__DIR__); 
 $dotenv->load();
-
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
     header('Location: /contact-us/');
     exit;
@@ -27,7 +20,6 @@ if (!empty($_POST['website'])) {
     ]);
     exit;
 }
-
 $secretKey = $_ENV['RECAPTCHA_SECRET_KEY'] ?? '';
  if (empty($_POST['g-recaptcha-response'])) {
     echo json_encode([
