@@ -1138,10 +1138,6 @@ Fare Highlights
     line-height: 1.8;
 }
 
-/* =========================================
-   HERO
-========================================= */
-
 .vip-hero {
     min-height: 680px;
     position: relative;
@@ -1300,29 +1296,6 @@ Fare Highlights
     height: 38px;
     background: rgba(255, 255, 255, .25);
 }
-
-/* .vip-intro {
-    max-width: 780px;
-    margin: 0 auto 90px;
-    text-align: center;
-} */
-
-/* .vip-intro .vip-intro-label {
-    color: var(--eci-primary);
-    font-size: 12px;
-    font-weight: 800;
-    letter-spacing: 2px;
-    margin-bottom: 15px;
-}
-
-.vip-intro h2 {
-    margin-bottom: 20px;
-}
-
-.vip-intro p {
-    max-width: 700px;
-    margin: auto;
-} */
 
 .vip-content-grid {
     display: grid;
