@@ -292,7 +292,7 @@
                                         <div class="eci-city-state">
                                             <h4>Uttarakhand</h4> <a href="/rishikesh.html">Rishikesh</a> <a
                                                 href="/coming-soon.html">Haridwar</a>
-                                            <a href="/coming-soon.html">Dehradun</a> <a href="/massoorie.html">Mussoorie</a> <a
+                                            <a href="/coming-soon.html">Dehradun</a> <a href="/ mussoorie.html">Mussoorie</a> <a
                                                 href="/nainital.html">Nainital</a>
                                             <a href="/coming-soon.html">Kedarnath /
                                                 Badrinath</a>
@@ -517,7 +517,7 @@
                                     <li><a href="/rishikesh.html" class="popular">Rishikesh</a></li>
                                     <li><a href="/coming-soon.html">Haridwar</a></li>
                                     <li><a href="/coming-soon.html">Dehradun</a></li>
-                                    <li><a href="/massoorie.html">Mussoorie</a></li>
+                                    <li><a href="/ mussoorie.html">Mussoorie</a></li>
                                     <li><a href="/nainital.html">Nainital</a></li>
                                     <li><a href="/coming-soon.html">Kedarnath / Badrinath</a></li>
                                 </ul>
