@@ -159,10 +159,7 @@ $(function () {
 
 
 $("#menuo").on("mouseenter", function () {
-
     $("#menuo").addClass('hovered');
-
-
 })
 
 $("#menuo").on("mouseleave", function () {
@@ -242,3 +239,12 @@ $('#return').click(function () {
         });
     });
 })(jQuery);
+
+$(document).ready(function () {
+    const response = await fetch(window.location);
+    console.log(response, 're')
+    const url = window.location.pathname;
+    const path = url.split('/').filter(Boolean);
+    const lastindex = path[path.length - 1]
+    console.log(lastindex, 'path');
+});
