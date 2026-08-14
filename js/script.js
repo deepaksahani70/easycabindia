@@ -247,7 +247,7 @@ $(document).ready(async function () {
         });
 
         if (response.status === 404) {
-            window.location.replace('/easycabindia/404.html');
+            window.location.replace('/404.html');
         }
     } catch (error) {
         console.error('Error checking URL:', error);

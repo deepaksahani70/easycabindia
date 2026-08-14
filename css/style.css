@@ -7007,14 +7007,13 @@ WHY EASY CAB INDIA
     align-items: center;
 }
 
-/* Image */
 .eci-404-image {
     text-align: center;
 }
 
 .eci-404-image img {
     width: 100%;
-    max-width: 590px;
+    max-width: 690px;
     height: auto;
     display: block;
     margin: auto;
@@ -7022,7 +7021,6 @@ WHY EASY CAB INDIA
     object-fit: contain;
 }
 
-/* Content */
 .eci-404-content {
     text-align: center;
 }
@@ -7052,7 +7050,6 @@ WHY EASY CAB INDIA
     line-height: 1.7;
 }
 
-/* Buttons */
 .eci-404-actions {
     display: flex;
     gap: 14px;
@@ -7100,62 +7097,24 @@ WHY EASY CAB INDIA
     transform: translateY(-2px);
 }
 
-/* Tablet */
-@media (max-width: 991px) {
-    .eci-404-wrapper {
-        gap: 40px;
-    }
-
-    .eci-404-content h1 {
-        font-size: 44px;
-    }
-}
 
 /* Mobile */
 @media (max-width: 767px) {
-    .eci-404-wrapper {
-        grid-template-columns: 1fr;
-        gap: 30px;
-        text-align: center;
-    }
 
     .eci-404-image img {
         max-width: 380px;
     }
-
-    .eci-404-content {
-        text-align: center;
-    }
-
-    .eci-404-content p {
-        margin: auto;
-    }
-
-    .eci-404-actions {
-        justify-content: center;
-    }
 }
 
 @media (max-width: 480px) {
-    .eci-404-image img {
-        max-width: 300px;
-    }
-
     .eci-404-content h1 {
-        font-size: 36px;
+        font-size: 32px;
     }
 
     .eci-404-content p {
-        font-size: 15px;
+        font-size: 14px;
     }
 
-    .eci-404-actions {
-        flex-direction: column;
-    }
-
-    .eci-btn {
-        width: 100%;
-    }
 }
 
 /*==============================
