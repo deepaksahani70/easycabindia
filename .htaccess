@@ -27,4 +27,4 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
 # Redirect everything else to 404.html
-RewriteRule ^.*$ /easycabindia/404.html [R=302,L]
+RewriteRule ^.*$ /404.html [R=302,L]

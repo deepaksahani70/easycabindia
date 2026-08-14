@@ -1082,7 +1082,6 @@ Fare Highlights
    VIP CAB HIRE
 ========================================= */
 
-
 .vip-section img,
 .vip-hero img {
     max-width: 100%;
@@ -1139,7 +1138,7 @@ Fare Highlights
 }
 
 .vip-hero {
-    min-height: 680px;
+    min-height: 600px;
     position: relative;
     display: flex;
     align-items: center;
@@ -1171,7 +1170,7 @@ Fare Highlights
 .vip-hero-content {
     position: relative;
     z-index: 2;
-    padding: 100px 0;
+    padding: 70px 0;
     color: var(--eci-white);
 }
 
@@ -1721,7 +1720,7 @@ Fare Highlights
     }
 
     .vip-hero {
-        min-height: 650px;
+        min-height: 450px;
     }
 
     .vip-hero-overlay {
@@ -1732,7 +1731,7 @@ Fare Highlights
     }
 
     .vip-hero-content {
-        padding: 80px 0;
+        padding: 20px 0;
     }
 
     .vip-hero h1 {
