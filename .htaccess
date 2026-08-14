@@ -17,3 +17,14 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^([^/]+)/?$ $1.php [L]
 </IfModule>
+
+RewriteEngine On
+
+# Don't redirect existing files
+RewriteCond %{REQUEST_FILENAME} !-f
+
+# Don't redirect existing directories
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Redirect everything else to 404.html
+RewriteRule ^.*$ /easycabindia/404.html [R=302,L]

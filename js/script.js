@@ -240,11 +240,16 @@ $('#return').click(function () {
     });
 })(jQuery);
 
-$(document).ready(function () {
-    const response = await fetch(window.location);
-    console.log(response, 're')
-    const url = window.location.pathname;
-    const path = url.split('/').filter(Boolean);
-    const lastindex = path[path.length - 1]
-    console.log(lastindex, 'path');
+$(document).ready(async function () {
+    try {
+        const response = await fetch(window.location.pathname, {
+            method: 'HEAD'
+        });
+
+        if (response.status === 404) {
+            window.location.replace('/easycabindia/404.html');
+        }
+    } catch (error) {
+        console.error('Error checking URL:', error);
+    }
 });

@@ -2583,22 +2583,15 @@
     <script>
         document.addEventListener('DOMContentLoaded', function () {
             const faqItems = document.querySelectorAll('.faq-accordion-item');
-
             faqItems.forEach(function (item) {
                 const question = item.querySelector('.faq-accordion-question');
-
                 question.addEventListener('click', function () {
-                    // Check if this item is already active
                     const isActive = item.classList.contains('active');
-
-                    // Close all other items
                     faqItems.forEach(function (otherItem) {
                         if (otherItem !== item && otherItem.classList.contains('active')) {
                             otherItem.classList.remove('active');
                         }
                     });
-
-                    // Toggle current item (if it wasn't active, open it; if it was, close it)
                     if (!isActive) {
                         item.classList.add('active');
                     } else {
@@ -2609,23 +2602,6 @@
         });
     </script>
 
-
-    <script>
-        document.getElementById("contactform").addEventListener("submit", function (e) {
-            document.getElementById("submitBtn").disabled = true;
-            document.getElementById("submitBtn").value = "Please Wait...";
-
-            Swal.fire({
-                title: 'Submitting...',
-                text: 'Please wait while we send your enquiry.',
-                allowOutsideClick: false,
-                allowEscapeKey: false,
-                didOpen: () => {
-                    Swal.showLoading();
-                }
-            });
-        });
-    </script>
     <script>
         var owl = $('.owl-carousel');
         owl.owlCarousel({
